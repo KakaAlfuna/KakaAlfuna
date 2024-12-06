@@ -1,5 +1,9 @@
 # 💫 About Me:
-desc
+As a passionate and results-driven Back End Developer, I specialize in creating robust and scalable server-side applications. With expertise in Express.js, Node.js, and Redis, I design and optimize high-performance systems that meet the growing demands of modern technology. 
+
+I am committed to continuous learning and thrive in dynamic environments where innovation and problem-solving are key. My technical skills are complemented by my ability to collaborate with cross-functional teams, ensuring smooth project delivery and high customer satisfaction.
+
+Let's connect if you're interested in discussing backend development, cloud solutions, or collaboration opportunities.
 
 
 # 💻 Tech Stack:
