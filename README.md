@@ -12,10 +12,6 @@ Based in Denpasar, Indonesia. [kaka.systemcraft.id](https://kaka.systemcraft.id)
 
 Before that, two years on global ticketing and event platforms across Australia, Singapore, Malaysia and Indonesia, where ticket-war events were losing transactions to race conditions until the custom Redis distributed lock gave way to a MongoDB replica set with native distributed transactions.
 
-## About the repositories here
-
-Most of what I build lives in private organization repositories, so this account is not a good sample of the work. What is public: [`cro-auditor-monolitlabs`](https://github.com/KakaAlfuna/cro-auditor-monolitlabs) (React and Cloudflare Workers, Supabase auth, SSE-streamed audit reports) and [`me-v3`](https://github.com/KakaAlfuna/me-v3).
-
 ## Stack
 
 **Backend** Go, Node.js, Python, REST, gRPC, microservices, event-driven architecture
